@@ -10,6 +10,8 @@ public class Ola {
         System.err.println("Viva o Benfica");
     }
     
-    
+        public static void main2(String[] args) {
+        System.err.println("Viva o Benfica");
+    }
     
 }
